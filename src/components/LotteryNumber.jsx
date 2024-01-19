@@ -24,7 +24,7 @@ const LotteryNumber = ({
             ) {
                 setStartLottery(false);
             }
-        }, 300);
+        }, 4000);
         return () => clearInterval(timeoutId);
     }, [currentNumber]);
 

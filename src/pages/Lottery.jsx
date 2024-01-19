@@ -43,5 +43,3 @@ const Lottery = () => {
 };
 
 export default Lottery;
-
-// Two parent containers; one for the actual lottery, and one for displaying the player numbers.
